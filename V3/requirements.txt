@@ -1,7 +1,7 @@
 numpy
-tensorflow==2.4.1
+tensorflow==2.14
 pandas
-tensorflow-addons
+tensorflow-addons[tensorflow]
 boto3
 s3fs
 fsspec
